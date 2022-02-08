@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leratomakhasane
 - 👀 I’m interested in AI, Web Development, Mobile Apps, Cyber Security, Software Development, Coding and Programming
-- 🌱 I’m currently learning AI Programming with Python
+- 🌱 I’m currently learning Web3 through LearnWeb3DAO
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me ...
 
