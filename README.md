@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @leratomakhasane
-- 👀 I’m interested in AI, Web Development, Mobile Apps, Cyber Security, Software Development, Coding and Programming
-- 🌱 I’m currently learning Web3 through LearnWeb3DAO
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me ...
+# Hi👋, I am Lerato Makhasane
 
-<!---
-leratomakhasane/leratomakhasane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Lerato Makhasane Profile Picture](https://photos.app.goo.gl/Mmx2PSjosncoQ7xz6)
+
+## About Me
+I am a Web Developer that enjoys learning new skills and improving skills I 
+have already. I am a member of LearnWeb3DAO learning blockchain development 
+it is very interesting and I enjoy learning it. 
+I am a member of the EddieHub Community which I am new to, 
+learning about open source development and also how to contribute 
+to open source. I enjoy exploring tools and techniques to solve a problem, I am a student for life.
+
+
+```ts
+if(fail) {
+    console.log("Do not be afraid to fail.'\n'
+    Failure is another stepping stone to greatness");
+}
+else {
+    console.log("Do nothing and achieve nothing");
+}
+```
