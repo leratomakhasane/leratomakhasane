@@ -1,6 +1,6 @@
 # Hi👋, I am Lerato Makhasane
 
-![Lerato Makhasane Profile Picture](https://photos.app.goo.gl/Mmx2PSjosncoQ7xz6)
+![Lerato Makhasane Profile Picture](./images/profile_pic.jpg)
 
 ## About Me
 I am a Web Developer that enjoys learning new skills and improving skills I 
