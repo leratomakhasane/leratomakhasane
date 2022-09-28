@@ -1,14 +1,36 @@
-# Hi👋, I am Lerato Makhasane
+# Hi👋, I am Lerato Makhasane 
 
-![Lerato Makhasane Profile Picture](IMG_20220919_100927.jpg)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="150"/>
+</div>
 
-## About Me
-I am a Web Developer that enjoys learning new skills and improving skills I 
-have already. I am a member of LearnWeb3DAO learning blockchain development 
-it is very interesting and I enjoy learning it. 
-I am a member of the EddieHub Community which I am new to, 
-learning about open source development and also how to contribute 
-to open source. I enjoy exploring tools and techniques to solve a problem, I am a student for life.
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/leratomakhasane">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/LeratoRampai1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leratomakhasane&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300"/>
+</div>
+
+## :woman_technologist: About Me :
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+- :telescope: I’m working as a Front End Developer contributing to frontend for building web applications.
+
+- :seedling: Exploring Technical Content Writing and being an Open Source Contributor.
+
+- :zap: Learning blockchain development, cybersecurity and I am looking to collaborate.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lerato-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/leratomakhasane)
+
 
 
 ```ts
