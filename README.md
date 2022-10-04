@@ -1,4 +1,4 @@
-# Hi👋, I am Lerato Makhasane 
+# Hi👋, I am Lerato Makhasane
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="150"/>
@@ -39,5 +39,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github-readme-stats.vercel.app/api?username=leratomakhasane&show_icons=true&theme=tokyonight"/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leratomakhasane&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### My Badges :
+[![@leratomakhasane's Holopin board](https://holopin.io/api/user/board?user=leratomakhasane)](https://holopin.io/@leratomakhasane)
 
 
