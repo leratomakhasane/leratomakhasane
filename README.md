@@ -25,7 +25,7 @@
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 - :telescope: I’m working as a Front End Developer contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing and being an Open Source Contributor.
+- :seedling: Exploring Technical Content Writing and being an Open Source Contributor
 
 - :zap: Learning blockchain development, cybersecurity and I am looking to collaborate.
 
