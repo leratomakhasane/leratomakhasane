@@ -1,4 +1,4 @@
-# Hi👋, I am Lerato Makhasane.
+# Hello👋, I am Lerato Makhasane.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=leratomakhasane&style=flat-square&color=blue" alt=""/>
