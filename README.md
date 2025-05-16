@@ -9,12 +9,12 @@
 </div>
 
 ## :woman_technologist: About Me:
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
-- :telescope: I’m working as a Front End Developer contributing to frontend for building web applications.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa
+- :telescope: I’m working as a Front End Developer contributing to frontend for building web application
 
 - :seedling: Exploring Technical Content Writing and being an Open Source Contributor
 
-- :zap: Learning blockchain development, cybersecurity and I am looking to collaborate.
+- :zap: Learning blockchain development, cybersecurity and I am looking to collaborate
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Lerato-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/leratomakhasane)
 
