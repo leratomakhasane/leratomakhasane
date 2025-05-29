@@ -1,10 +1,6 @@
 # Hello👋, I am Lerato Makhasane.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leratomakhasane&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300"/>
 </div>
 
