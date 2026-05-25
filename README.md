@@ -31,7 +31,8 @@ Focused on blue team operations, incident analysis, SIEM workflows, and investig
 - [letsdefend-soc-cases](https://github.com/leratomakhasane/letsdefend-soc-cases)
 - [security-blue-team](https://github.com/leratomakhasane/security-blue-team)
 - [cyberdefenders-cases](https://github.com/leratomakhasane/cyberdefenders-cases)
-- [tryhackme-writeups](https://github.com/leratomakhasane/tryhackme-writeups)
+- [tryhackme-investigations](https://github.com/leratomakhasane/tryhackme-investigations)
+- [packet-tracer-labs](https://github.com/leartomakhasane/packet-tracer-labs)
 
 ---
 
